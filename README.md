@@ -83,6 +83,17 @@ I also ordered Stencil along with PCB and thanks to [JLCPCB](https://jlcpcb.com/
 
 if you are trying prototype PCB first time you can definitely go with [JLCPCB](https://jlcpcb.com/IAT ).
 
+
+ 👉 Try PCBA service of [JLCPCB.com](https://jlcpcb.com/IAT) and save your time and money, get PCB ready for project, 200K+ components in library of [JLCPCB.com](https://jlcpcb.com/IAT) as well as 3rd party         parts to choose from. 
+    Assembly will support 10M+ parts from Digikey, mouser
+    
+👉 $27 valued New User coupons 
+
+👉 $24 SMT coupons every month
+
+
+
+
 If you want to see complete process of SMD soldering, go to the link below it was very satisfying to watch
 
 https://www.youtube.com/watch?v=iG4kTLOWU5Y&t=14s
