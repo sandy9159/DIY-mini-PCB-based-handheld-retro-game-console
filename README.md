@@ -80,6 +80,8 @@ Here is the list of component you need to build your Attiny 85 based game consol
 
 ![image](https://user-images.githubusercontent.com/19898602/159103503-59c54cc5-0fdc-48e1-85e6-1ff641e9b61d.png)
 
+![image](https://user-images.githubusercontent.com/19898602/159103526-948f9d40-bcb6-496d-b535-b1e78b174008.png)
+
 
 My first aim in this project to keep it small as much as possible so decide to go with SMD components, so that Electronics component cover minimum space on PCB
 
