@@ -65,6 +65,10 @@ Here is the list of component you need to build your Attiny 85 based game consol
 
 # PCB of mini game console from [JLCPCB](https://jlcpcb.com/IAT )
 
+Link to downlod PCB gerber file to order PCB
+
+https://drive.google.com/file/d/1kmdUMyGZZynyx7tNjBdYXktDiOe2jRE6/view?usp=sharing
+
 ![image](https://user-images.githubusercontent.com/19898602/127040832-fa3ad471-223b-4948-891e-cac4810f2e7f.png)
 
 ![image](https://user-images.githubusercontent.com/19898602/159103396-b67962d3-384a-4d3c-8d14-0d580f2c6184.png)
